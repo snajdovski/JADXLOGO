@@ -1,4 +1,4 @@
 # JADXLOGO
 Jadx new logo:
-![LOGO](https://imgur.com/a/HONlL8z)
+![LOGO](https://i.imgur.com/pRjk3tk.png)
 
