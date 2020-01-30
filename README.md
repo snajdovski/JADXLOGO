@@ -1,0 +1,2 @@
+# JADXLOGO
+Jadx new logo
